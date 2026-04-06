@@ -19,14 +19,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-foun
 
 ---
 
-## 🔥 Projects
-- **[edXtra.online](https://edxtra.online)**: Our flagship website, featuring study materials and resources.
-- **WhatsApp Media Organizer**: A smart tool to declutter and manage your WhatsApp media files effortlessly.
-- **[shop.edxtra.online](https://shop.edxtra.online)**: Our dedicated store where students can purchase edXtra modules and study tools.
-- **Exclusive Study Materials**: From **NCERT Lite** to customized notes, tailored to help students ace their exams.
-
----
-
 ## 🛠️ Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
