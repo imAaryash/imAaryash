@@ -12,7 +12,7 @@ not studying for jee. building [Tikxz](https://tikxz.com), [edXtra Technologies]
 
 ### things i did before i could legally vote
 
-💻 became CTO of [edXTra Technologies](https://edxtratech.com) (we actually ship)  
+💻 became CTO of [edXtra Technologies](https://edxtratech.com) (we actually ship)  
 🏆 co-founded [Winsent Esports](https://instagram.com/winsent.in) - **94k** followers and my mom still asks what i do  
 🎮 hosted an esports event at IIT. at 16. before even getting in. yeah.
 
