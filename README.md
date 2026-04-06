@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey. i'm aaryash.
+# hey. i'm Aaryash.
 
-**18. nashik. chronically online. accidentally building companies.**
+**18. Nashik. chronically online. accidentally building companies.**
 
 not studying for jee. building [Tikxz](https://tikxz.com), [edXtra Technologies](https://edxtratech.com/) & [Winsent Esports](https://www.instagram.com/winsent.in) instead. worth it probably.
 
