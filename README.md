@@ -1,49 +1,76 @@
-# 👋 Hi, I'm @Aaryash K!
+<div align="center">
 
-Welcome to my GitHub profile! I'm a tech enthusiast, strategist, and the co-founder of **edXtra**, an educational platform dedicated to empowering students with innovative study tools and resources.  
+# hey. i'm aaryash.
 
----
+**18. nashik. chronically online. accidentally building companies.**
 
-## 🌟 About Me
-- 🔭 Currently working on **edxtra.online**, our tech wing to revolutionize education and innovation.
-- 💻 Passionate about **web development**, **3D animation**, and **problem-solving**.
-- 🤝 Collaborating with talented teammates to create engaging and user-friendly experiences.
-- 🌱 I’m currently learning - Web-development, Python and JavaScript.
+not studying for jee. building [Tikxz](https://tikxz.com), [edXtra Technologies](https://edxtratech.com/) & [Winsent Esports](https://www.instagram.com/winsent.in) instead. worth it probably.
+
+</div>
 
 ---
 
-## 💼 My Role at edXtra
-- 🧩 Strategist: I specialize in finding solutions for every challenge, whether in studies or team management.
-- 🖥️ Developer: I work on UI/UX, enhance website functionality, and ensure a seamless user experience.
-- 🎯 Visionary: Committed to delivering innovative educational content and tools.
+### things i did before i could legally vote
+
+💻 became CTO of [edXTra Technologies](https://edxtratech.com) (we actually ship)  
+🏆 co-founded [Winsent Esports](https://instagram.com/winsent.in) - **94k** followers and my mom still asks what i do  
+🎮 hosted an esports event at IIT. at 16. before even getting in. yeah.
 
 ---
 
-## 🛠️ Tools & Technologies
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-FF6D00?logo=blender&logoColor=white)
-![AI](https://img.shields.io/badge/-AI_Bot_Training-3B5998?logo=artificial-intelligence&logoColor=white)
-![Graphic_Designing](https://img.shields.io/badge/-Graphic_Design-2D2D2D?logo=adobe-photoshop&logoColor=white)
+### what's keeping me up at night
+
+> **[Tikxz](https://tikxz.com)** - because someone had to fix event ticketing for MUNs  
+> and no, a google form is NOT a ticketing system. i will die on this hill.
+
+> **[edXTra Technologies](https://edxtratech.com)** - because someone had to fix the embarrassingly broken school ERP market in India  
+> yes, schools are still running on software that looks like windows xp. we're fixing that.
+
+> **[Winsent Esports](https://instagram.com/winsent.in)** - managing creators, running esports events, handling promotions & marketing  
+> basically we're the people behind the scenes making the indian gaming scene look good.
 
 ---
 
-## 📫 Let’s Connect!
-- **Email**: [aaryash@edxtra.tech](mailto:aaryash@edxtra.tech)
-- **Instagram**: [@n0taaryash](https://instagram.com/thereal.aaryash)
-- **Linkedin**: [@AaryashK](https://www.linkedin.com/in/aaryash-khalkar-9a7169308/)
+### how i break and fix things
+
+**code & backend**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+**infra, cloud & databases**  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
+
+**design & creative**  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-black?style=flat-square&logo=adobepremierepro)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
+![After Effects](https://img.shields.io/badge/-After%20Effects-black?style=flat-square&logo=adobeaftereffects)
 
 ---
 
-## 🎉 Fun Facts
-- I’m a 17-year-old entrepreneur balancing JEE prep and building edXtra!
-- I’m deeply into **3D modeling and animation**.
-- Always up for a cup of chai and tech discussions!
+### where to find me (if you must)
+
+[![instagram](https://img.shields.io/badge/@aaryashhhh-black?style=flat-square&logo=instagram)](https://instagram.com/aaryashhhh)
+[![linkedin](https://img.shields.io/badge/aaryashk-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/aaryashk)
+[![email](https://img.shields.io/badge/aaryash@edxtratech.com-black?style=flat-square&logo=gmail)](mailto:aaryash@edxtratech.com)
 
 ---
 
-⭐️ **Thanks for stopping by!** Don’t forget to check out my projects and feel free to contribute or reach out. Together, let’s make learning awesome!
+*yes i'm 18. no i don't know what i'm doing. yes it's working.*
