@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> hey. i'm Aaryash.
 
-**18. Nashik. chronically online. accidentally building companies.**
+**Nashik. chronically online. accidentally building companies.**
 
 not studying for jee. building [Tikxz](https://tikxz.com), [edXtra Technologies](https://edxtratech.com/) & [Winsent Esports](https://www.instagram.com/winsent.in) instead. worth it probably.
 
