@@ -12,28 +12,22 @@ building [Tikxz](https://tikxz.com), [edXtra Technologies](https://edxtratech.co
 
 ### things i did before i could legally vote
 
-💻 co-founded [edXtra Technologies](https://edxtratech.com/) (we actually ship)
-
-🏆 co-founded [Winsent Esports](https://instagram.com/winsent.in) — **94k** followers and my mom still asks what i do
-
-🎮 hosted an esports event at IIT. at 16. before even getting into college. yeah.
-
+💻 co-founded [edXtra Technologies](https://edxtratech.com) (we actually ship)  
+🏆 co-founded [Winsent Esports](https://instagram.com/winsent.in) — **94k** followers and my mom still asks what i do  
+🎮 hosted an esports event at IIT. at 16. before even getting into college. yeah.  
 🎓 FY engineering student. turns out building companies doesn't count as attendance.
 
 ---
 
 ### what's keeping me up at night
 
-> **[Tikxz](https://tikxz.com)** — because someone had to fix event ticketing for MUNs.
->
+> **[Tikxz](https://tikxz.com)** — because someone had to fix event ticketing for MUNs.  
 > and no, a google form is NOT a ticketing system. i will die on this hill.
 
-> **[edXTra Technologies](https://edxtratech.com/)** — because someone had to fix the embarrassingly broken school ERP market in India.
->
+> **[edXTra Technologies](https://edxtratech.com/)** — because someone had to fix the embarrassingly broken school ERP market in India.  
 > yes, schools are still running on software that looks like windows xp. we're fixing that.
 
-> **[Winsent Esports](https://instagram.com/winsent.in)** — managing creators, running esports events, handling promotions & marketing.
->
+> **[Winsent Esports](https://instagram.com/winsent.in)** — managing creators, running esports events, handling promotions & marketing.  
 > basically we're the people behind the scenes making the indian gaming scene look good.
 
 ---
