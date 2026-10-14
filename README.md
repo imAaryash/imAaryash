@@ -52,8 +52,6 @@ building [Tikxz](https://tikxz.com), [edXtra Technologies](https://edxtratech.co
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 
-currently exploring neural networks, learning the math behind machine learning, and trying to understand what actually happens under the hood instead of just calling an API and pretending i'm an AI engineer.
-
 **infra, cloud & databases**
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -80,7 +78,7 @@ currently exploring neural networks, learning the math behind machine learning, 
 
 ### currently exploring
 
-- neural networks & deep learning
+- neural networks & deep learning, learning the math behind machine learning, and trying to understand what actually happens under the hood instead of just calling an API and pretending i'm an AI engineer.
 - the mathematics behind machine learning
 - building scalable products and backend systems
 - turning side projects into things people actually use
